@@ -1,2 +1,24 @@
-# VueJsApplication
-This application is developed using VueJs CLI by adding all internal server configurations. In this we input String using 2-way-binding and convert string to uppercase by using computed property.   
+# vue_proj
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
